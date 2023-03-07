@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1044203178791",
+    "project_id": "instafire-946f1",
+    "storage_bucket": "instafire-946f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044203178791:android:774b827a588415bca2f702",
+        "android_client_info": {
+          "package_name": "com.example.instafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044203178791-9o4077ohsjlun3doqrhpl408blqlrgu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7I2HdAUihMrna4GNH04QUI7CmKzD-D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044203178791-9o4077ohsjlun3doqrhpl408blqlrgu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044203178791:android:6b2c9f8f5be35eaba2f702",
+        "android_client_info": {
+          "package_name": "com.example.workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044203178791-9o4077ohsjlun3doqrhpl408blqlrgu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7I2HdAUihMrna4GNH04QUI7CmKzD-D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044203178791-9o4077ohsjlun3doqrhpl408blqlrgu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
